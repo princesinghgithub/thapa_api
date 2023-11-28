@@ -1,0 +1,23 @@
+[
+    {
+        "name":"iphone",
+        " price":42000,
+        "featured":true,
+        "company":"apple"
+
+       }
+       ,{
+        "name":"readmi",
+        " price":10000,
+        "featured":true,
+        "company":"mi"
+
+       },
+       {
+        "name":"samsunga34",
+        " price":27000,
+        "featured":true,
+        "company":"samsung"
+
+       }
+]
